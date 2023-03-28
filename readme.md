@@ -17,7 +17,6 @@ included about us page to give user a little information about us and it also in
 ## URL
 
 
-
 ## Screenshots
 
 Landing Page
